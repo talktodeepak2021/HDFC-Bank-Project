@@ -1,0 +1,85 @@
+2022-06-17 11:46:08,956 [main] INFO HDFCBANK - open URL
+2022-06-17 11:46:09,552 [main] INFO HDFCBANK - enter username  
+2022-06-17 11:46:11,011 [main] INFO HDFCBANK -  enter password
+2022-06-17 11:46:14,427 [main] INFO HDFCBANK - click on submit button
+2022-06-17 11:46:14,748 [main] INFO HDFCBANK - login passed
+2022-06-17 12:21:01,343 [main] INFO HDFCBANK - open URL
+2022-06-17 12:21:02,231 [main] INFO HDFCBANK - enter username  
+2022-06-17 12:21:02,860 [main] INFO HDFCBANK -  enter password
+2022-06-17 12:21:05,826 [main] INFO HDFCBANK - click on submit button
+2022-06-17 12:21:05,912 [main] INFO HDFCBANK - login passed
+2022-06-17 13:18:46,039 [main] INFO HDFCBANK - open URL
+2022-06-17 13:18:46,299 [main] INFO HDFCBANK - enter username  
+2022-06-17 13:18:46,452 [main] INFO HDFCBANK -  enter password
+2022-06-17 13:18:49,744 [main] INFO HDFCBANK - click on submit button
+2022-06-17 13:18:49,822 [main] INFO HDFCBANK - login passed
+2022-06-20 11:07:28,038 [main] INFO HDFCBANK - open URL
+2022-06-20 11:07:28,418 [main] INFO HDFCBANK - enter username  
+2022-06-20 11:07:28,931 [main] INFO HDFCBANK -  enter password
+2022-06-20 11:07:32,235 [main] INFO HDFCBANK - click on submit button
+2022-06-20 11:07:32,607 [main] INFO HDFCBANK - login passed
+2022-06-20 11:44:03,988 [main] INFO HDFCBANK - open URL
+2022-06-20 11:44:04,285 [main] INFO HDFCBANK - enter username  
+2022-06-20 11:44:04,628 [main] INFO HDFCBANK -  enter password
+2022-06-20 11:44:08,215 [main] INFO HDFCBANK - click on submit button
+2022-06-20 11:44:08,864 [main] INFO HDFCBANK - login failed
+2022-06-22 10:10:36,625 [main] INFO HDFCBANK - open URL
+2022-06-22 10:10:36,875 [main] INFO HDFCBANK - enter username  
+2022-06-22 10:10:36,987 [main] INFO HDFCBANK -  enter password
+2022-06-22 10:10:39,746 [main] INFO HDFCBANK - click on submit button
+2022-06-22 12:07:22,553 [main] INFO HDFCBANK - open URL
+2022-06-22 12:07:25,125 [main] INFO HDFCBANK - enter username  
+2022-06-22 12:07:25,320 [main] INFO HDFCBANK - enter password
+2022-06-22 12:07:30,032 [main] INFO HDFCBANK - login
+2022-06-22 12:07:30,081 [main] WARN HDFCBANK - login passed
+2022-06-22 12:07:35,307 [main] INFO HDFCBANK - enter username  
+2022-06-22 12:07:35,534 [main] INFO HDFCBANK - enter password
+2022-06-22 12:07:36,066 [main] INFO HDFCBANK - login
+2022-06-22 12:07:38,947 [main] INFO HDFCBANK - enter username  
+2022-06-22 12:07:39,197 [main] INFO HDFCBANK - enter password
+2022-06-22 12:07:40,175 [main] INFO HDFCBANK - login
+2022-06-22 12:07:43,129 [main] INFO HDFCBANK - enter username  
+2022-06-22 12:07:43,313 [main] INFO HDFCBANK - enter password
+2022-06-22 12:07:46,330 [main] INFO HDFCBANK - login
+2022-06-22 12:07:46,342 [main] WARN HDFCBANK - login passed
+2022-06-23 10:14:43,463 [main] INFO HDFCBANK - open URL
+2022-06-23 10:14:45,740 [main] INFO HDFCBANK - enter username  
+2022-06-23 10:14:45,928 [main] INFO HDFCBANK - enter password
+2022-06-23 10:14:49,691 [main] INFO HDFCBANK - login
+2022-06-23 10:14:49,730 [main] WARN HDFCBANK - login passed
+2022-06-23 10:14:53,892 [main] INFO HDFCBANK - enter username  
+2022-06-23 10:14:54,040 [main] INFO HDFCBANK - enter password
+2022-06-23 10:14:54,579 [main] INFO HDFCBANK - login
+2022-06-23 10:14:57,485 [main] INFO HDFCBANK - enter username  
+2022-06-23 10:14:57,628 [main] INFO HDFCBANK - enter password
+2022-06-23 10:14:59,314 [main] INFO HDFCBANK - login
+2022-06-23 10:15:02,207 [main] INFO HDFCBANK - enter username  
+2022-06-23 10:15:02,364 [main] INFO HDFCBANK - enter password
+2022-06-23 10:15:04,855 [main] INFO HDFCBANK - login
+2022-06-23 10:15:04,859 [main] WARN HDFCBANK - login passed
+2022-06-25 12:12:48,595 [main] INFO HDFCBANK - open URL
+2022-06-25 12:12:49,331 [main] INFO HDFCBANK - enter username  
+2022-06-25 12:12:49,693 [main] INFO HDFCBANK -  enter password
+2022-06-25 12:16:20,882 [main] INFO HDFCBANK - open URL
+2022-06-25 12:16:21,097 [main] INFO HDFCBANK - enter username  
+2022-06-25 12:16:21,250 [main] INFO HDFCBANK -  enter password
+2022-06-25 12:18:09,862 [main] INFO HDFCBANK - open URL
+2022-06-25 12:24:53,703 [main] INFO HDFCBANK - open URL
+2022-06-25 12:28:46,666 [main] INFO HDFCBANK - open URL
+2022-06-25 12:28:46,992 [main] INFO HDFCBANK - enter username  
+2022-06-25 12:28:47,113 [main] INFO HDFCBANK -  enter password
+2022-06-25 12:28:50,199 [main] INFO HDFCBANK - click on submit button
+2022-06-25 12:28:59,267 [main] INFO HDFCBANK - open URL
+2022-06-25 12:29:01,311 [main] INFO HDFCBANK - enter username  
+2022-06-25 12:29:01,516 [main] INFO HDFCBANK - enter password
+2022-06-25 12:29:02,926 [main] INFO HDFCBANK - login
+2022-06-25 12:29:06,333 [main] INFO HDFCBANK - enter username  
+2022-06-25 12:29:06,587 [main] INFO HDFCBANK - enter password
+2022-06-25 12:29:07,895 [main] INFO HDFCBANK - login
+2022-06-25 12:29:11,845 [main] INFO HDFCBANK - enter username  
+2022-06-25 12:29:12,170 [main] INFO HDFCBANK - enter password
+2022-06-25 12:29:12,815 [main] INFO HDFCBANK - login
+2022-06-25 12:29:15,947 [main] INFO HDFCBANK - enter username  
+2022-06-25 12:29:16,141 [main] INFO HDFCBANK - enter password
+2022-06-25 12:29:17,211 [main] INFO HDFCBANK - login
+2022-06-25 12:29:28,311 [main] INFO HDFCBANK - open URL
